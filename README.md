@@ -5,5 +5,5 @@ Limitation of Liability: @Original_COCAINE recieves no responsibility for the mi
 
 Check below for instructions and use!
 
-#Install
+#Installation
 Please read - Mirai_Install.txt - on how to configure and establish!
